@@ -18,4 +18,4 @@ Once NGINX is running, the Travis configuration pulls down `water_auth_server:la
 
 I then build a derivative image from this example base image and verify that the base image is functioning.
 
-[Questions?](isuftin@usgs.gov)  
+[Questions?](mailto:isuftin@usgs.gov)  
